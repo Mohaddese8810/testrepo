@@ -1,4 +1,4 @@
-# webdev_lab1
- creating repo for first lab assignment
+# webdev_lab2
+ creating repo for second lab assignment
 
 
